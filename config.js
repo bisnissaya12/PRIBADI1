@@ -84,12 +84,12 @@ global.owner = [
 ['6281807254833', 'IBNU OFFICIAL 🅥⁩', true]
 ]
 global.mods = []
-global.prems = []
+global.prems = ['6281807254833']
 global.nomorbot = '62818072548331'
 global.nomorown = '6281807254833'
 global.nomorown1 = '6281807254833'
 global.nomorown2 = '6288272480997'
-global.nomorwa = '0'
+global.nomorwa = '6281807254833'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -99,7 +99,7 @@ global.author = 'IBNU OFFICIAL 🅥⁩'
 global.namebot = '​ IBNU-MD'
 global.wm = '© IBNU OFFICIAL 🅥⁩  Bye IBNU-MD'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = 'DaniXd '
+global.wm = 'IBNU-MD '
 global.watermark = wm
 global.wm2 = 'IBNU-MD '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
@@ -122,7 +122,7 @@ global.sig = 'https://instagram.com/ibnu_ramadhani.1'
 global.sgh = 'https://github.com/bisnissaya12' //github
 global.sgc = 'https://chat.whatsapp.com/D71CKTjDBgkBYmaNZuUmcG' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
+global.snh = 'https://chat.whatsapp.com/D71CKTjDBgkBYmaNZuUmcG'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.pdana = '081807254833'
